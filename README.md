@@ -1,4 +1,4 @@
-1A2D (1 Algorithm in 2 Days)
+## 1A2D (1 Algorithm in 2 Days)
 📌 스터디 소개
 
 2일에 한 문제씩 알고리즘 문제를 풀고 공유하는 것을 목표로 합니다.
